@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/main.c</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/config/default/ddr.ld</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/config/default/peripheral/mmu/plib_mmu.c</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/mlapp_HW.cpp</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/third_party/kissfft/kiss_fft.c</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/packs/CMSIS/CMSIS/Core_A/Include/cmsis_gcc.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/modelHW.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/modelHW.cpp</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/config/default/definitions.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/app.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/tensorflow/lite/micro/micro_error_reporter.cpp</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/tensorflow/lite/micro/debug_log.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/tensorflow/lite/micro/micro_interpreter.cpp</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/tensorflow/lite/micro/micro_interpreter.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/tensorflow/lite/micro/micro_context.h</file>
+            <file>file:/C:/harmonyPrj/tfliteExamples/SineWave/src/third_party/tflite-micro/third_party/flatbuffers/include/flatbuffers/flatbuffers.h</file>
+        </group>
+    </open-files>
+</project-private>
