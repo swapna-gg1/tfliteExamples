@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/tinyCNN_int8GS.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>117440512</length>
+      <used>840224</used>
+      <free>116600288</free>
+    </memory>
+  </executable>
+</project>
